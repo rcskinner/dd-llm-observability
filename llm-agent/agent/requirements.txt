@@ -1,0 +1,11 @@
+# Development Dependencies 
+jupyterlab
+ddtrace
+
+# LLM agent Dependencies 
+openai
+langchain-openai
+
+# PyApp / API Dependencies 
+fastapi[standard] 
+redis
